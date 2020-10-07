@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9595a674-e801-4ce5-934f-15b4549c4c3e" name="Default Changelist" comment="注意">
-      <change beforePath="$PROJECT_DIR$/changgou_canal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_canal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,6 +315,7 @@
       <workItem from="1602050538435" duration="1827000" />
       <workItem from="1602059712092" duration="51000" />
       <workItem from="1602060001940" duration="1233000" />
+      <workItem from="1602062903216" duration="500000" />
     </task>
     <servers />
   </component>
@@ -382,19 +383,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="256" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600916607983" />
-    <state x="816" y="348" key="FileChooserDialogImpl" timestamp="1602062940090">
+    <state x="816" y="348" key="FileChooserDialogImpl" timestamp="1602062983191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="816" y="348" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601185482505" />
-    <state x="816" y="348" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602062940090" />
-    <state x="1003" y="447" key="Github.ShareDialog" timestamp="1602049308201">
+    <state x="816" y="348" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602062983191" />
+    <state x="1003" y="447" key="Github.ShareDialog" timestamp="1602063022862">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1003" y="447" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602049308201" />
-    <state x="747" y="262" key="Github.UntrackedFilesDialog" timestamp="1602042683918">
+    <state x="1003" y="447" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602063022862" />
+    <state x="747" y="262" key="Github.UntrackedFilesDialog" timestamp="1602063053298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="747" y="262" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602042683918" />
+    <state x="747" y="262" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602063053298" />
     <state width="1158" height="354" key="GridCell.Tab.0.bottom" timestamp="1601451262798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -481,10 +482,10 @@
     </state>
     <state x="734" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601168343686" />
     <state x="734" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602060002807" />
-    <state x="913" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602049173894">
+    <state x="913" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602063621159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="913" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602049173894" />
+    <state x="913" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602063621159" />
     <state x="780" y="332" key="git4idea.merge.GitPullDialog" timestamp="1602036601061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
