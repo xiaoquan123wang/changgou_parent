@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings xmlns="http://java.sun.com/xml/ns/persistence/orm"
+        version="2.0">
+
+    <entity class="com.untid.pojo.RenyuanTjEntity">
+        <table name="renyuan_tj" schema="kaohe" catalog=""/>
+        <attributes>
+            <basic name="krRyid">
+                <column name="kr_ryid"/>
+            </basic>
+            <basic name="khMonth">
+                <column name="kh_Month"/>
+            </basic>
+            <basic name="khName">
+                <column name="kh_Name"/>
+            </basic>
+            <basic name="khGrade">
+                <column name="kh_Grade"/>
+            </basic>
+            <basic name="khDpscore">
+                <column name="kh_Dpscore"/>
+            </basic>
+            <basic name="khGeren">
+                <column name="kh_geren"/>
+            </basic>
+        </attributes>
+    </entity>
+</entity-mappings>
