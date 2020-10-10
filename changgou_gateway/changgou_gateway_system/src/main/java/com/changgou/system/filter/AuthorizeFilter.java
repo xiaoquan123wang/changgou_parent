@@ -32,7 +32,7 @@ public class AuthorizeFilter implements GlobalFilter, Ordered {
         //5.获取jwt令牌信息
         String jwtToken = headers.getFirst("token");
 
-        //6.判断当前令牌是否存在,
+        //6.判断当前令牌是否存在,StringUtils.isEmpty判断是否为空
         if (StringUtils.isEmpty(jwtToken)) {
             //如果不存在,则向客户端返回错误提示信息
             response.setStatusCode(HttpStatus.UNAUTHORIZED);

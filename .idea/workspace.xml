@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9595a674-e801-4ce5-934f-15b4549c4c3e" name="Default Changelist" comment="注意">
+    <list default="true" id="9595a674-e801-4ce5-934f-15b4549c4c3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_gateway/changgou_gateway_system/src/main/java/com/changgou/system/filter/AuthorizeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_gateway/changgou_gateway_system/src/main/java/com/changgou/system/filter/AuthorizeFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service/changgou_service_system/src/main/java/com/changgou/system/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_service/changgou_service_system/src/main/java/com/changgou/system/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service/changgou_service_system/src/main/java/com/changgou/system/util/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_service/changgou_service_system/src/main/java/com/changgou/system/util/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service/changgou_service_system/target/classes/com/changgou/system/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_service/changgou_service_system/target/classes/com/changgou/system/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/src/main/java/com/untid/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/src/main/java/com/untid/pojo/Bhkaohe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/src/main/java/com/untid/pojo/Bumen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/src/main/java/com/untid/pojo/KaoHao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/src/main/java/com/untid/pojo/KhBumen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/src/main/java/com/untid/pojo/KhYuanGong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/src/main/java/com/untid/pojo/Yhkaohe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/target/classes/META-INF/untitled_api.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/target/classes/com/untid/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/target/classes/com/untid/pojo/Bumen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/target/classes/com/untid/pojo/KaoHao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/target/classes/com/untid/pojo/KhBumen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/target/classes/com/untid/pojo/KhYuanGong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/target/classes/com/untid/pojo/Yhkaohe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/target/classes/com/untid/pojo/bhkaohe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/untitled_api/untitled_api.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,21 +136,17 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.changgou.user.feign" />
-      <recent name="com.untid.pojo" />
-      <recent name="" />
-      <recent name="com.changgou.entity.interceptor" />
-      <recent name="com.changgou.entity.util" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\damo\changgou_parent\changgou_service\untitled\src\main\resources\com" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.changgou.order.service.impl" />
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.untid.pojo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\damo\changgou_parent" />
@@ -134,11 +155,15 @@
       <recent name="C:\damo\changgou_parent\changgou_service_api" />
       <recent name="C:\damo\changgou_parent\changgou_service\kh_kaishi\src\main\resources" />
     </key>
-    <key name="ImportMappingsDialog.RecentPackages">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changgou.system.util" />
+      <recent name="com.changgou.system.controller" />
+      <recent name="com.changgou.system.pojo" />
+      <recent name="com.changgou.user.feign" />
       <recent name="com.untid.pojo" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\damo\changgou_parent\changgou_service\untitled\src\main\resources\com" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changgou.order.service.impl" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -148,7 +173,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GateWayApplication">
+  <component name="RunManager" selected="Spring Boot.SystemApplication">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -245,11 +270,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.GateWayApplication" />
-        <item itemvalue="Spring Boot.EurekaApplication" />
-        <item itemvalue="Spring Boot.FileApplication" />
         <item itemvalue="Spring Boot.SystemApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
         <item itemvalue="Spring Boot.GoodsApplication" />
+        <item itemvalue="Spring Boot.GateWayApplication" />
+        <item itemvalue="Spring Boot.FileApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -315,12 +340,62 @@
       <workItem from="1602050538435" duration="1827000" />
       <workItem from="1602059712092" duration="51000" />
       <workItem from="1602060001940" duration="1233000" />
-      <workItem from="1602062903216" duration="500000" />
+      <workItem from="1602062903216" duration="4106000" />
+      <workItem from="1602118787255" duration="10389000" />
+      <workItem from="1602145898305" duration="3973000" />
+      <workItem from="1602205487532" duration="9782000" />
+      <workItem from="1602224650466" duration="12681000" />
+      <workItem from="1602291679360" duration="19000" />
+      <workItem from="1602291715268" duration="538000" />
     </task>
+    <task id="LOCAL-00001" summary="注意">
+      <created>1602063659471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602063659471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/gongshi/changgou_parent/changgou-user-oauth/src/main/java/com/changgou/oauth/config" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="注意" />
@@ -339,11 +414,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="378" y="243" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601449927351" />
-    <state x="577" y="244" width="1092" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601449855271">
+    <state x="577" y="244" width="1092" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602150095062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601187595035" />
-    <state x="577" y="244" width="1092" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601449855271" />
+    <state x="577" y="244" width="1092" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602150095062" />
     <state x="920" y="372" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601189090898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -353,10 +428,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="204" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600916935144" />
-    <state x="895" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1601186744488">
+    <state x="895" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1602215895589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="895" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601186744488" />
+    <state x="895" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602215895589" />
     <state x="895" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601023104505" />
     <state x="927" y="352" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1601028416534">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -371,23 +447,28 @@
     </state>
     <state x="827" y="454" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601169746185" />
     <state x="827" y="454" width="739" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1601016068122" />
-    <state x="549" y="71" key="CommitChangelistDialog2" timestamp="1602037034933">
+    <state x="549" y="71" key="CommitChangelistDialog2" timestamp="1602063658319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="71" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602037034933" />
+    <state x="549" y="71" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602063658319" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1601015511218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1920.1040@0.0.1920.1040" timestamp="1601015511218" />
+    <state x="173" y="44" key="DiffContextDialog" timestamp="1602063653883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="173" y="44" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602063653883" />
     <state x="1032" y="256" key="EnvironmentVariablesDialog" timestamp="1600916607983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="256" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600916607983" />
-    <state x="816" y="348" key="FileChooserDialogImpl" timestamp="1602062983191">
+    <state x="816" y="348" key="FileChooserDialogImpl" timestamp="1602292196868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="816" y="348" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601185482505" />
-    <state x="816" y="348" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602062983191" />
+    <state x="816" y="348" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602148724680" />
+    <state x="816" y="348" key="FileChooserDialogImpl/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602292196868" />
+    <state x="816" y="348" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602208277356" />
     <state x="1003" y="447" key="Github.ShareDialog" timestamp="1602063022862">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -396,74 +477,87 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="262" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602063053298" />
-    <state width="1158" height="354" key="GridCell.Tab.0.bottom" timestamp="1601451262798">
+    <state width="1158" height="378" key="GridCell.Tab.0.bottom" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477087" />
-    <state width="1158" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262798" />
-    <state width="1158" height="354" key="GridCell.Tab.0.center" timestamp="1601451262798">
+    <state width="1158" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869611" />
+    <state width="1158" height="378" key="GridCell.Tab.0.center" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477087" />
-    <state width="1158" height="354" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262798" />
-    <state width="1158" height="354" key="GridCell.Tab.0.left" timestamp="1601451262798">
+    <state width="1158" height="378" key="GridCell.Tab.0.center/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869611" />
+    <state width="1158" height="378" key="GridCell.Tab.0.left" timestamp="1602232379436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477087" />
-    <state width="1158" height="354" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262798" />
-    <state width="1158" height="354" key="GridCell.Tab.0.right" timestamp="1601451262798">
+    <state width="1158" height="378" key="GridCell.Tab.0.left/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379436" />
+    <state width="1158" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869611" />
+    <state width="1158" height="378" key="GridCell.Tab.0.right" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477087" />
-    <state width="1158" height="354" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262798" />
-    <state width="1158" height="354" key="GridCell.Tab.1.bottom" timestamp="1601451262799">
+    <state width="1158" height="378" key="GridCell.Tab.0.right/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869611" />
+    <state width="1158" height="378" key="GridCell.Tab.1.bottom" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477088" />
-    <state width="1158" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262799" />
-    <state width="1158" height="354" key="GridCell.Tab.1.center" timestamp="1601451262799">
+    <state width="1158" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869612" />
+    <state width="1158" height="378" key="GridCell.Tab.1.center" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477088" />
-    <state width="1158" height="354" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262799" />
-    <state width="1158" height="354" key="GridCell.Tab.1.left" timestamp="1601451262799">
+    <state width="1158" height="378" key="GridCell.Tab.1.center/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869611" />
+    <state width="1158" height="378" key="GridCell.Tab.1.left" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477087" />
-    <state width="1158" height="354" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262799" />
-    <state width="1158" height="354" key="GridCell.Tab.1.right" timestamp="1601451262799">
+    <state width="1158" height="378" key="GridCell.Tab.1.left/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869611" />
+    <state width="1158" height="378" key="GridCell.Tab.1.right" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477088" />
-    <state width="1158" height="354" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262799" />
-    <state width="1158" height="354" key="GridCell.Tab.2.bottom" timestamp="1601451262799">
+    <state width="1158" height="378" key="GridCell.Tab.1.right/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869612" />
+    <state width="1158" height="378" key="GridCell.Tab.2.bottom" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477088" />
-    <state width="1158" height="354" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262799" />
-    <state width="1158" height="354" key="GridCell.Tab.2.center" timestamp="1601451262799">
+    <state width="1158" height="378" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869612" />
+    <state width="1158" height="378" key="GridCell.Tab.2.center" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477088" />
-    <state width="1158" height="354" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262799" />
-    <state width="1158" height="354" key="GridCell.Tab.2.left" timestamp="1601451262799">
+    <state width="1158" height="378" key="GridCell.Tab.2.center/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869612" />
+    <state width="1158" height="378" key="GridCell.Tab.2.left" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477088" />
-    <state width="1158" height="354" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262799" />
-    <state width="1158" height="354" key="GridCell.Tab.2.right" timestamp="1601451262799">
+    <state width="1158" height="378" key="GridCell.Tab.2.left/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869612" />
+    <state width="1158" height="378" key="GridCell.Tab.2.right" timestamp="1602232379437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1230" height="298" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601192477088" />
-    <state width="1158" height="354" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601451262799" />
+    <state width="1158" height="378" key="GridCell.Tab.2.right/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602232379437" />
+    <state width="1158" height="264" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602145869612" />
     <state x="584" y="220" key="Maven.ArtifactSearchDialog" timestamp="1601028557505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="584" y="220" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601028557505" />
-    <state x="743" y="188" key="SettingsEditor" timestamp="1602050360574">
+    <state x="743" y="188" key="SettingsEditor" timestamp="1602234736277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="188" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601168650654" />
+    <state x="743" y="188" key="SettingsEditor/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602234736277" />
     <state x="743" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602050360574" />
     <state x="837" y="430" key="Vcs.Push.Dialog.v2" timestamp="1602036360918">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -477,11 +571,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="780" y="195" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601015501544" />
-    <state x="734" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1602060002807">
+    <state x="734" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1602291686263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601168343686" />
-    <state x="734" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602060002807" />
+    <state x="734" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.1.1920.1040@0.0.1920.1040" timestamp="1602291686263" />
+    <state x="734" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602205488606" />
     <state x="913" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602063621159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -515,11 +610,6 @@
           <url>file://$PROJECT_DIR$/changgou_gateway/changgou_gateway_system/src/main/java/com/changgou/system/filter/AuthorizeFilter.java</url>
           <line>20</line>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/changgou_service/changgou_service_system/src/main/java/com/changgou/system/controller/AdminController.java</url>
-          <line>113</line>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/changgou_service/untitled/src/main/java/com/untiled/controller/UtidController.java</url>

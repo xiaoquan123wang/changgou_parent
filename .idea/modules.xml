@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/changgou-user-oauth/changgou-user-oauth.iml" filepath="$PROJECT_DIR$/changgou-user-oauth/changgou-user-oauth.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_canal/changgou_canal.iml" filepath="$PROJECT_DIR$/changgou_canal/changgou_canal.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_common/changgou_common.iml" filepath="$PROJECT_DIR$/changgou_common/changgou_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_eureka/changgou_eureka.iml" filepath="$PROJECT_DIR$/changgou_eureka/changgou_eureka.iml" />
@@ -26,7 +27,6 @@
       <module fileurl="file://$PROJECT_DIR$/changgou_service/changgou_service_user/changgou_service_user.iml" filepath="$PROJECT_DIR$/changgou_service/changgou_service_user/changgou_service_user.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_service_api/changgou_service_user_api/changgou_service_user_api.iml" filepath="$PROJECT_DIR$/changgou_service_api/changgou_service_user_api/changgou_service_user_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_web/changgou_web.iml" filepath="$PROJECT_DIR$/changgou_web/changgou_web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/changgou_service_api/untitled_api/untitled_api.iml" filepath="$PROJECT_DIR$/changgou_service_api/untitled_api/untitled_api.iml" />
     </modules>
   </component>
 </project>

@@ -16,6 +16,7 @@
       <set>
         <option value="$PROJECT_DIR$/changgou_common_db/pom.xml" />
         <option value="$PROJECT_DIR$/changgou_service/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service_api/untitled_api/pom.xml" />
       </set>
     </option>
   </component>
